@@ -10,7 +10,7 @@ import time
 import sys
 
 # Constants
-FORMAT_STRING = 'Decimal: {dec} | Binary: {bin} | Hexadecimal: {hex}'
+FORMAT_STRING = 'Decimal: {dec} | Binary: {bin} | Hexadecimal: {hex} \n'
 
 
 def read_file(file_path):
